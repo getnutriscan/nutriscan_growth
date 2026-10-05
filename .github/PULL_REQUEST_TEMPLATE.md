@@ -1,16 +1,20 @@
-## What & why
+## Summary
 
-<!-- One or two sentences. What changes, and what problem it solves. -->
+<!-- What changed and why? Add 1–3 concise bullet points. -->
 
-Resolves: <!-- REQUIRED: Linear ticket (NUT-###). -->
+-
 
-## How it was tested
+## Test plan
 
-<!-- Commands run, screenshots for UI, or "covered by test X". -->
+<!-- How did you verify this? Include commands, manual checks, or why testing is not applicable. -->
+
+## Ticket
+
+<!-- Link the relevant Linear issue. Remove this line if no ticket applies; never reuse an unrelated ticket. -->
+
+Resolves: NUT-
 
 ## Checklist
 
-- [ ] Ticket moved to **In Progress** when I started this
-- [ ] No secrets, user data, or `.env` contents anywhere in this diff
-- [ ] I did not push commits to anyone else's branch
-
+- [ ] No secrets, user data, or `.env` contents are included in this diff
+- [ ] I did not push commits to someone else's branch
